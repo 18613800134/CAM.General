@@ -53,15 +53,10 @@
   <ItemGroup>
     <Compile Include="ComplexStruct\ContactStruct.cs" />
     <Compile Include="ComplexStruct\EXTPlugInForPassport.cs" />
-<<<<<<< HEAD
-    <Compile Include="ComplexStruct\Token.cs" />
-    <Compile Include="ComplexStruct\UserFaceStruct.cs" />
-=======
     <Compile Include="ComplexStruct\OrganizationNameStruct.cs" />
     <Compile Include="ComplexStruct\Token.cs" />
     <Compile Include="ComplexStruct\UserFaceStruct.cs" />
     <Compile Include="ComplexStruct\UserNameStruct.cs" />
->>>>>>> develop
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
