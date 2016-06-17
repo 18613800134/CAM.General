@@ -48,6 +48,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComplexStruct\ContactStruct.cs" />
+    <Compile Include="ComplexStruct\EXTPlugInForPassport.cs" />
+    <Compile Include="ComplexStruct\Token.cs" />
+    <Compile Include="ComplexStruct\UserFaceStruct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -55,7 +59,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="ComplexStruct\" />
     <Folder Include="ConstValue\" />
     <Folder Include="SessionModel\" />
   </ItemGroup>
