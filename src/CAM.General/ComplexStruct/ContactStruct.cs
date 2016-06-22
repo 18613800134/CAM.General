@@ -7,6 +7,7 @@ namespace CAM.General.ComplexStruct
 
     /// <summary>
     /// 常用联系方式结构体
+    /// 修改
     /// </summary>
     [Serializable]
     [ComplexType]
